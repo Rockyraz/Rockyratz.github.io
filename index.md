@@ -1,6 +1,7 @@
+<style> header { display: none; } </style>
 <h1 style="font-size: 4.5em; margin-bottom: 0;">LE BALC</h1>
+<h3 style="margin-top: 0; font-weight: normal;">> Assemblea Universitaria e non</h3>
 ===================================
-##[Assemblea universitaria e non]
 
 ## [ INFO ]
 
