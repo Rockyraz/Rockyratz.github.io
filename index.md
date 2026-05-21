@@ -1,4 +1,4 @@
-# BALK
+<h1 style="font-size: 3.5em; margin-bottom: 0;">LE BALC</h1>
 ===================================
 
 
@@ -37,4 +37,8 @@ _Clicca sulle directory per espanderle_
 * **[ da definirsi ]:** Bombe
 
 ===================================
+## [ CANALE_TELEGRAM ]
+Inquadra il QR code per accedere alla rete:
+<br>
+<img src="qr.png" width="200">
 _EOF_
