@@ -1,14 +1,40 @@
-# [ ROOT_ACCESS_GRANTED ]
+# BALK
 ===================================
-> TERMINALE ASSEMBLEA // LOG_01
-> Stato: Connesso
-> Rete: Pubblica
+> SISTEMA CENTRALE OPERATIVO
 
-Benvenuti nello spazio di condivisione dati. Qui sotto trovate i documenti accessibili della nostra assemblea. 
-
-## [ DIR_DOCUMENTI ]
-* [ > Leggi_Manifesto_v1.0 ](manifesto.pdf)
-* [ > Analisi_Dati_Territoriali ](dati.pdf)
+## [ INFO_SISTEMA ]
+Assemblea universitaria e non
+* **Coordinate:** [Sede Via Conservatorio]
+* **Attività:** [blablabla]
 
 ===================================
-_Fine trasmissione._
+
+## [ DATABASE_ACCESSIBILE ]
+_Clicca sulle directory per espanderle_
+
+<details>
+  <summary>> [ DIR_TESTI_POLITICI ]</summary>
+  <ul>
+    <li><a href="#">Disertare l'incertezza</a></li>
+    <li><a href="#">Giovani contro la Guerra</a></li>
+    <li><a href="#">Oltre la rappresentanza</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>> [ DIR_FILE_CONDIVISI ]</summary>
+  <ul>
+    <li><a href="#">Testo bello 1.pdf</a></li>
+    <li><a href="#">Zinestocazzo.pdf</a></li>
+  </ul>
+</details>
+
+===================================
+
+## [ LOG_PROSSIMI_IMPEGNI ]
+* **[ 10 Giugno ]:** Assemblea pubblica in piazza.
+* **[ 24 Giugno ]:** Chiusura stesura documento programmatico.
+* **[ Progetto Mappatura ]:** Analisi zone dismesse (in corso).
+
+===================================
+_EOF_
