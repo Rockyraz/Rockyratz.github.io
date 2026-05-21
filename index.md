@@ -1,16 +1,16 @@
 <h1 style="font-size: 4.5em; margin-bottom: 0;">LE BALC</h1>
 ===================================
-
+# Assemblea universitaria e non
 
 ## [ INFO ]
-Assemblea universitaria e non
-* **Coordinate:** [Sede Via Conservatorio]
+
+* **Dove:** [Sede Via Conservatorio, assemblea ogni settimana]
 * **Attività:** [blablabla]
 
 ===================================
 
 ## [ MATERIALE ]
-_Clicca sulle directory per espanderle_
+_Clicca per espandere le directory e leggere testi e comunicati!_
 
 <details>
   <summary>> [TESTI] </summary>
@@ -38,7 +38,7 @@ _Clicca sulle directory per espanderle_
 
 ===================================
 ## [ CANALE_TELEGRAM ]
-Inquadra il QR code per accedere alla rete:
+Inquadra il QR code per accedere al canale telegram:
 <br>
 <img src="qr.png" width="200">
 _EOF_
